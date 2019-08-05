@@ -1,1 +1,2 @@
-# OnlineJudge
+# Simple OnlineJudge
+
